@@ -21,7 +21,7 @@ Mac: https://git-scm.com/download/mac
 - If your terminal shows you a similar path to this one C:\Users\nadim>
 - Write the following command: cd Desktop (this will navigate your computer to your desktop, for simplicity I recommend cloning the project to your desktop)
 - git clone https://github.com/your_username/snake-game.git
-- now that the repository is cloned change your directory with the following command :cd snake-game
+- now that the repository is cloned change your directory with the following command :cd snake_nokia_game
 - To run the game just type the following command:
 - python snake.py
 
